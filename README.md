@@ -34,8 +34,8 @@ Follow these steps to get started with your PyQt5 MVC project:
    python app.py
    ```
 ## Project Structure
-The project is organized into the following directories:
-controllers/: Contains the controllers for your application.
-models/: Includes the models that represent your application's data.
-views/: Contains the GUI views for your application.
-app.py: Entry point of your application.
+   The project is organized into the following directories:
+   controllers/: Contains the controllers for your application.
+   models/: Includes the models that represent your application's data.
+   views/: Contains the GUI views for your application.
+   app.py: Entry point of your application.
